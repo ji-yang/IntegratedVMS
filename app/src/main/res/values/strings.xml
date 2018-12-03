@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntegratedVMS</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="not_supporting">Hardware of your Android device does not support the facial operations</string>
+</resources>
